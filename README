@@ -1,0 +1,11 @@
+Small project that takes data from the messaging app GroupMe and uses it to display
+the differing proportions of messages from one user to the next. It would have
+been used to analyze more data in more creative ways, but I stopped using GroupMe
+before I finished on the project.
+
+Skills used:
+Working with an unfamiliar API
+Basic data management and analysis
+Filtering out useful data from an excess of data
+Basic graph creation
+General Python development
